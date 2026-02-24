@@ -52,10 +52,19 @@ A robust, production-ready Full-Stack application designed to manage, assign, an
 
 | Dashboard Overview | Analytics & Statistics |
 |:---:|:---:|
-| <img src="docs/dashboard.png" width="400" alt="Dashboard View"> | <img src="docs/statistics.png" width="400" alt="Analytics View"> |
+| <img src="[docs/dashboard.png](https://github.com/user-attachments/assets/07bd6bab-ea38-48e6-9a7d-09729ca1206e)" width="400" alt="Dashboard View"> | <img src="docs/statistics.png" width="400" alt="Analytics View"> |
+<img width="1643" height="894" alt="image" src="https://github.com/user-attachments/assets/07bd6bab-ea38-48e6-9a7d-09729ca1206e" />
+
+<img width="1886" height="938" alt="image" src="https://github.com/user-attachments/assets/2c88be5c-b3f2-4786-9046-8e02d241119e" />
+
 
 | Map View (Leaflet) | Interactive Alert List |
 |:---:|:---:|
+<img width="1903" height="952" alt="image" src="https://github.com/user-attachments/assets/28f29572-1f43-49c7-9deb-4b4bd8a2caad" />
+<img width="1786" height="927" alt="image" src="https://github.com/user-attachments/assets/c6252343-40d5-44ff-91b6-9a5e07de978d" />
+
+
+
 | <img src="docs/map.png" width="400" alt="Map View"> | <img src="docs/alerts.png" width="400" alt="Alerts View"> |
 
 ---
