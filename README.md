@@ -48,7 +48,7 @@ A robust, production-ready Full-Stack application designed to manage, assign, an
 
 ## 📸 Screenshots
 
-*(Add your screenshots here before pushing to GitHub)*
+
 Login 
 <img width="1853" height="973" alt="image" src="https://github.com/user-attachments/assets/11574351-6480-4533-9eef-149e17abed45" />
 
@@ -58,6 +58,8 @@ Login
 
 
 <img width="1886" height="938" alt="image" src="https://github.com/user-attachments/assets/2c88be5c-b3f2-4786-9046-8e02d241119e" />
+Admin view 
+<img width="1666" height="790" alt="image" src="https://github.com/user-attachments/assets/edce6b03-6226-4d25-822e-99a4c93b499c" />
 
 
 | Map View (Leaflet) | Interactive Alert List |
