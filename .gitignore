@@ -1,0 +1,28 @@
+# General Exceptions
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+
+# Backend (Java/Maven)
+backend/target/
+backend/!.mvn/wrapper/maven-wrapper.jar
+backend/log/
+backend/logs/
+backend/*.log
+backend/dependency-reduced-pom.xml
+
+# Frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.npm/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*

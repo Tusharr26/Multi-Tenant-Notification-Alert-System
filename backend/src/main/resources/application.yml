@@ -1,0 +1,22 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/alert_system?createDatabaseIfNotExist=true&useSSL=false
+    username: root
+    password: tushar
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+jwt:
+  secret: YmE2NDM4MTNlNGM4MzZkZDBkMWViNGE1NDgxOTBjYjg2YWViYzg5ZmI0MDRhOTA2NWMxNmE2MDRmNTdkZTBhMDQ1OWY5MTdi
+  expiration: 86400000 # 24 hours
+
+logging:
+  level:
+    org.springframework.security: DEBUG
